@@ -34,8 +34,7 @@ You need to export your configs first through **Salmon V1**
 ### **A. Python Version (Open Source)**  
 1. Install the latest version of Python:  
    https://www.python.org/  
-2. Download and unzip **Salmon-Macro-Conversion-Tool
-**  
+2. Download and unzip **Salmon-Macro-Conversion-Tool**  
 3. Open the folder
 3. Open ConversionToolPython folder  
 5. Run:  
