@@ -36,7 +36,7 @@ You need to export your configs first through **Salmon V1**
    https://www.python.org/  
 2. Download and unzip **Salmon-Macro-Conversion-Tool**  
 3. Open the folder
-3. Open ConversionToolPython folder  
+3. Open **ConversionToolPython** folder  
 5. Run:  
    ```
    Convert_Tool.py
