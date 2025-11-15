@@ -34,13 +34,15 @@ You need to export your configs first through **Salmon V1**
 ### **A. Python Version (Open Source)**  
 1. Install the latest version of Python:  
    https://www.python.org/  
-2. Download and unzip **ConversionToolPython.zip**  
-3. Open the folder  
-4. Run:  
+2. Download and unzip **Salmon-Macro-Conversion-Tool
+**  
+3. Open the folder
+3. Open ConversionToolPython folder  
+5. Run:  
    ```
    Convert_Tool.py
    ```  
-5. Choose which conversion you want to perform.
+6. Choose which conversion you want to perform.
 
 ### **B. Windows EXE Version (Ready to Use)**  
 1. Download and unzip **ConversionTool.zip**  
